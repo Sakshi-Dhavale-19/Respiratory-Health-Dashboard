@@ -55,11 +55,9 @@ Below are sample views from the **Respiratory Health Dashboard**, showing intera
 
 | **Overview Page** | **Geographic View** | **Detailed Analysis** | **Data Availability** |
 |--------------------|---------------------|-----------------------|-----------------------|
-| ![Overview Page](Images/General Overview.png) | ![Geographic View](Images/Geographic View.png) | ![Detailed Analysis](Images/Detailed Analysis.png) | ![Data Availability](Images/Data Availability.png) |
+| ![Overview Page](Images/General%20Overview.png) | ![Geographic View](Images/Geographic%20View.png) | ![Detailed Analysis](Images/Detailed%20Analysis.png) | ![Data Availability](Images/Data%20Availability.png) |
 
-Each section highlights a distinct part of the analysis pipeline  
-from summarising national indicators and visualising regional variations,  
-to performing detailed comparative analysis and ensuring transparency in data usage.
+Each section highlights a distinct part of the analysis pipeline from summarising national indicators and visualising regional variations, to performing detailed comparative analysis and ensuring transparency in data usage.
 
 ---
 
