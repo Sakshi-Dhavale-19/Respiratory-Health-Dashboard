@@ -49,6 +49,20 @@ _All datasets used are publicly available and have been cleaned, standardised, a
 
 ---
 
+## Dashboard Preview
+
+Below are sample views from the **Respiratory Health Dashboard**, showing interactive and analytical capabilities across tabs:
+
+| **Overview Page** | **Geographic View** | **Detailed Analysis** | **Data Availability** |
+|--------------------|---------------------|-----------------------|-----------------------|
+| ![Overview Page](Images/GeneralOverview.png) | ![Geographic View](Images/GeographicView.png) | ![Detailed Analysis](Images/DetailedAnalysis.png) | ![Data Availability](Images/DataAvailability.png) |
+
+Each section highlights a distinct part of the analysis pipeline  
+from summarising national indicators and visualising regional variations,  
+to performing detailed comparative analysis and ensuring transparency in data usage.
+
+---
+
 ## How to Run the App
 
 To run the app locally in **RStudio**:
